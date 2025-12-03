@@ -1,0 +1,20 @@
+# Archivos de compilación
+target/
+*.class
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# DATOS SENSIBLES / PRUEBAS (Según rúbrica)
+datasets/
+resultados/
+key.txt
